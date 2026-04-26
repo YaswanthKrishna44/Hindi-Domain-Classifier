@@ -1,4 +1,4 @@
-# Hindi-Domain-Classifier
+# Domain-Classifier
 # 📊 Hindi Domain Classifier: Comparative Study
 
 This project explores multi-task domain classification for Hindi text using state-of-the-art Transformer architectures.
