@@ -9,7 +9,7 @@ I compared two major architectures using **PEFT (LoRA)** and **4-bit Quantizatio
 | Model | Accuracy | Strengths |
 | :--- | :--- | :--- |
 | **NLLB-200 (600M)** | **79.64%** | Best overall accuracy; superior cross-lingual transfer. |
-| **XLM-RoBERTa-Large** | **75.220%** | High precision in Wikinews; robust semantic understanding. |
+| **XLM-RoBERTa-Large** | **75.20%** | High precision in Wikinews; robust semantic understanding. |
 |**NLLB-200 (600M)** |**80.81**|Best overall accuracy on mixed languages(Hindi/English)|
 
 ## 🛠️ Technical Implementation
